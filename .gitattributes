@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+LKaifer_FinanceApp/Views/* linguist-vendored
+LKaifer_FinanceApp/Scripts/* linguist-vendored
+LKaifer_FinanceApp/Content/* linguist-vendored
